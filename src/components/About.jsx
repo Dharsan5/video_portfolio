@@ -42,7 +42,7 @@ const About = () => {
           
           <h2 className="text-4xl md:text-5xl font-black text-black mb-4">Hello!</h2>
           <p className="text-lg font-bold mb-12 leading-relaxed max-w-3xl text-red-50">
-            Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Leeshark</span>, a passionate full-stack developer based in [Location], dedicated to crafting clean, functional, and highly scalable web applications.
+            Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Dharsan SP</span>, a motivated and flexible fresher with strong frontend development and full stack skills, based in <span className="text-black font-black">Tamil Nadu, India</span>. I build impactful web & mobile applications and love contributing to innovative software products.
           </p>
 
           {/* Horizontal Skills Row (Transparent & Large) */}
