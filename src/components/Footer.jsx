@@ -41,6 +41,7 @@ const Footer = () => {
         
         <div className="flex flex-col gap-2 md:items-center">
           <a href="mailto:dharsansp254@gmail.com" className="underline hover:text-white transition-colors underline-offset-4 decoration-1 lowercase">dharsansp254@gmail.com</a>
+          <a href="tel:+919080105868" className="underline hover:text-white transition-colors underline-offset-4 decoration-1 lowercase">+91 9080105868</a>
           <a href="https://linkedin.com/in/dharsan-sp" target="_blank" rel="noreferrer" className="underline hover:text-white transition-colors underline-offset-4 decoration-1 lowercase">linkedin.com/in/dharsan-sp</a>
         </div>
         
