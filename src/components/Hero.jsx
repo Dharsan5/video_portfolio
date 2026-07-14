@@ -64,7 +64,7 @@ const Hero = () => {
             data-aos-delay="200"
             className="text-white text-sm md:text-lg font-semibold mb-8 max-w-md drop-shadow-md"
           >
-            Full Stack Developer & UI/UX Designer — building impactful web & mobile apps with React, React Native, Node.js and AWS.
+            Full Stack Developer & UI/UX Designer — building impactful websites with React, Node.js and AWS.
           </p>
 
           {/* Buttons */}
