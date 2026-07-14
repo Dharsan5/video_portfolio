@@ -86,7 +86,7 @@ const Skills = () => {
             Skills & <span className="text-[#ff2a2a]">Expertise</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-base md:text-lg font-medium leading-relaxed">
-            A comprehensive set of tools, frameworks, and technologies that I leverage to build state-of-the-art web and mobile applications.
+            A comprehensive set of tools, frameworks, and technologies that I leverage to build state-of-the-art websites.
           </p>
         </div>
 

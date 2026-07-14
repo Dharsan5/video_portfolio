@@ -41,7 +41,7 @@ const About = () => {
           <div data-aos="fade-left" data-aos-delay="200" className="flex-1 text-white mt-8 md:mt-0 relative z-20">
             <h2 className="text-4xl md:text-5xl font-black text-black mb-4">Hello!</h2>
             <p className="text-lg font-bold mb-12 leading-relaxed max-w-3xl text-red-50">
-              Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Dharsan SP</span>, a motivated and flexible fresher with strong frontend development and full stack skills, based in <span className="text-black font-black">Tamil Nadu, India</span>. I build impactful web & mobile applications and love contributing to innovative software products.
+              Hi, my name is <span className="text-black text-xl font-black mx-1 tracking-wide uppercase">Dharsan SP</span>, a motivated and flexible fresher with strong frontend development and full stack skills, based in <span className="text-black font-black">Tamil Nadu, India</span>. I build impactful websites and love contributing to innovative software products.
             </p>
 
             {/* Horizontal Skills Row (Transparent & Large) */}

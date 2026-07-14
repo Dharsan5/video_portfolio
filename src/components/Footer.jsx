@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col gap-1">
           <p>Full Stack Development</p>
           <p>Frontend · UI/UX Design</p>
-          <p>Mobile Apps · Cloud & AWS</p>
+          <p>Web Apps · Cloud & AWS</p>
         </div>
         
         <div className="flex flex-col gap-1 md:items-center">

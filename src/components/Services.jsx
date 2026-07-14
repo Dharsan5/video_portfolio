@@ -93,7 +93,7 @@ const Services = () => {
             </svg>
           </h2>
           <p className="text-gray-500 text-base md:text-lg max-w-sm font-medium leading-relaxed">
-            A structured, creative, and highly technical approach to delivering clean, scalable full-stack web & mobile applications.
+            A structured, creative, and highly technical approach to delivering clean, scalable full-stack websites.
           </p>
         </div>
 
