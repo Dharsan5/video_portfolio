@@ -1,4 +1,3 @@
-import React from 'react';
 import stackImage from '../assets/about/image.png';
 import reactImage from '../assets/about/react.png';
 import nodeImage from '../assets/about/node.png';
